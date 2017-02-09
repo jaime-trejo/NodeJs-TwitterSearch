@@ -1,0 +1,26 @@
+.header {
+  background: #7DA3A1;
+  text-align: center;
+  height: 10%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  padding: 0;
+  margin: 0;
+}
+
+#form {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
